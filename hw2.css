@@ -1,0 +1,9 @@
+body {
+	color: black;
+	background-color: yellow;
+	font-size: 18pt;
+	}
+p {color: black; font-size: 12pt; }
+h1 {font-weight:bold}
+h5 {font-style:italic}
+h4 {font-weight:bold}
