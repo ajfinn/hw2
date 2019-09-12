@@ -2,7 +2,10 @@ body {
 	color: black;
 	background-color: cyan;
 	font-size: 18pt;
-	}
+	
+	.content { 
+	margin: 0 auto;
+	text-align:left; }
 
 h2 {font-weight:bold}
 h4 {font-weight:bold}
